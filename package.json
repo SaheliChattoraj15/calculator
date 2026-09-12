@@ -1,0 +1,13 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "Bespoke Modern Calculator App",
+  "scripts": {
+    "dev": "npx -y serve . -l 3000",
+    "start": "npx -y serve . -l 3000",
+    "preview": "npx -y serve . -l 3000"
+  },
+  "keywords": ["calculator", "html", "css", "javascript"],
+  "author": "",
+  "license": "ISC"
+}
